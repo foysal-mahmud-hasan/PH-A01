@@ -183,6 +183,12 @@ nav div a {
     margin-top: 32px;
     margin-bottom: 80px;
 }
+.three-contents{
+    padding-top: 20px;
+    text-align: left;
+    max-width: 477px;
+    padding-bottom: 48px;
+}
 .main-middle{
     max-width: 1140px;
     margin: auto;
