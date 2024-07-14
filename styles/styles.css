@@ -91,10 +91,13 @@ nav div a {
 
 
 /* main section */
-
+.main-content{
+    max-width: 1140px;
+    margin: auto;
+}
 
 .main-intro{
-    max-width: 1140px;
+    max-width: 946px;
     margin: auto;
     padding-bottom: 80px;
 }
@@ -117,6 +120,7 @@ nav div a {
 .one-contents{
     text-align: left;
     max-width: 477px;
+    padding-bottom: 48px;
 }
 .content-one{
     padding-top: 48px;
@@ -175,4 +179,39 @@ nav div a {
 .content-three{
     background-color: white;
     margin-top: 32px;
+    margin-bottom: 80px;
+}
+.main-middle{
+    max-width: 1140px;
+    margin: auto;
+    margin-top: 90px;
+
+}
+.middle-title{
+    text-align: center;
+    font-weight: 800;
+    font-size: 32px;
+    color: #0D1321;
+}
+.middle-contents{
+    max-width: 852px;
+    margin: auto;
+}
+.middle-description{
+    text-align: center;
+    margin-top: 24px;
+    font-size: 16px;
+    color: #0D1321;
+}
+.middle-video{
+    display: flex;
+    justify-content: center;
+    padding: 32px;
+    margin-top: 48px;
+    border-radius: 16px;
+
+}
+iframe{
+    border-radius: 16px;
+    border: none;
 }
