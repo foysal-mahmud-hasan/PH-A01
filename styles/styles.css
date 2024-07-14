@@ -143,8 +143,10 @@ nav div a {
     font-size: 16px;
 }
 .one-button{
+    background-color: white;
     margin-top: 32px;
     padding: 12px 20px;
+    border: 1px solid #0D1321;
 }
 .one-a{
     text-decoration: none;
@@ -214,4 +216,5 @@ nav div a {
 iframe{
     border-radius: 16px;
     border: none;
+
 }
