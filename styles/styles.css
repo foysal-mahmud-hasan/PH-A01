@@ -92,6 +92,87 @@ nav div a {
 
 /* main section */
 
-main{
-    margin-top: 74px;
+
+.main-intro{
+    max-width: 1140px;
+    margin: auto;
+    padding-bottom: 80px;
+}
+.intro{
+    background-color: rgba(13, 19 , 33, 0.02);
+    padding-bottom: 48px;
+}
+.intro-title{
+    font-weight: 800;
+    font-size: 32px;
+    margin-top: 154px;
+    text-align: center;
+}
+.into-description{
+    margin-top: 24px;
+    font-size: 16px;
+    color: #0D1321;
+    text-align: center;
+}
+.one-contents{
+    text-align: left;
+    max-width: 477px;
+}
+.content-one{
+    padding-top: 48px;
+    background-color: white;
+}
+.content-one-div{
+    margin-top: 48px ;
+    padding-bottom: 48px;
+    display: flex;
+    justify-content: space-between;
+}
+.one-title{
+    padding-top: 20px;
+    font-size: 24px;
+    font-weight: 700;
+    color: rgba(13, 19 , 33, 0.7);
+}
+.one-description{
+    margin-top: 16px;
+    font-size: 16px;
+}
+.one-button{
+    margin-top: 32px;
+    padding: 12px 20px;
+}
+.one-a{
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: #0D1321;
+    
+}
+.one-img{
+    padding: 10px;
+}
+.content-two{
+    background-color: white;
+    margin-top: 32px;
+    margin-bottom: 70px;
+}
+.content-two-div{
+    margin-top: 48px;
+    display: flex;
+    justify-content: flex-start;
+    padding-bottom: 48px;
+}
+.two-contents{
+    padding-top: 20px;
+    margin-left: 32px;
+    max-width: 468px;
+    
+}
+.two-img{
+    padding-top: 10.5px;
+}
+.content-three{
+    background-color: white;
+    margin-top: 32px;
 }
