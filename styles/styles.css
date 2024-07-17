@@ -415,3 +415,6 @@ footer{
 .footer-logos{
     text-align: right;
 }
+footer a{
+    text-decoration: none;
+}
